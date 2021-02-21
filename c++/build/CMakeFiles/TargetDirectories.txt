@@ -1,3 +1,0 @@
-C:/Users/zachmertensmcconnell/Desktop/zmertens-checkers/c++/build/CMakeFiles/rebuild_cache.dir
-C:/Users/zachmertensmcconnell/Desktop/zmertens-checkers/c++/build/CMakeFiles/Checkers.dir
-C:/Users/zachmertensmcconnell/Desktop/zmertens-checkers/c++/build/CMakeFiles/edit_cache.dir
